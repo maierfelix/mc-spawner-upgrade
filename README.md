@@ -50,7 +50,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Max Nearby Entities | 6 | The maximum number of nearby spawned mobs |
 | Required Player Range | 16 | The block radius of the sphere of activation by players for this spawner |
 
-<img title="Spawner Upgrade I" src="https://i.imgur.com/YzX7fce.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16" style="padding:6px"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+<img title="Spawner Upgrade I" src="https://i.imgur.com/YzX7fce.png"> <img src="https://i.imgur.com/RkboqIW.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
 
 | Name  | Value |
 | ------------- | ------------- |
@@ -60,7 +60,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Max Nearby Entities | 6 |
 | Required Player Range | 64 |
 
-<img title="Spawner Upgrade II" src="https://i.imgur.com/zB8qCJE.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16" style="padding:6px"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+<img title="Spawner Upgrade II" src="https://i.imgur.com/zB8qCJE.png"> <img src="https://i.imgur.com/RkboqIW.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
 
 | Name  | Value |
 | ------------- | ------------- |
@@ -70,7 +70,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Max Nearby Entities | 6 |
 | Required Player Range | 128 |
 
-<img title="Spawner Upgrade III" src="https://i.imgur.com/qyIhnnx.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16" style="padding:6px"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+<img title="Spawner Upgrade III" src="https://i.imgur.com/qyIhnnx.png"> <img src="https://i.imgur.com/RkboqIW.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
 
 | Name  | Value |
 | ------------- | ------------- |
