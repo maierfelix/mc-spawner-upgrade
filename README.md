@@ -1,4 +1,4 @@
-# Spawn Upgrader
+# Spawner Upgrade
 
 This mod allows you to upgrade mob spawners to have increased range and (slightly) better spawn rates.
 
