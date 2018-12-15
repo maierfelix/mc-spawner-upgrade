@@ -4,6 +4,10 @@ This mod allows you to upgrade mob spawners to have increased range and (slightl
 
 There are 3 levels of spawn upgraders - With increasing level, the mob spawner gets improved.
 
+## Installation:
+
+Download this mod from [here](https://github.com/maierfelix/mc-spawner-upgrade/releases/download/0.1/SpawnerUpgrade-0.1.jar) and place it into your minecraft ``/mods`` folder.
+
 ## Usage:
 
 Placing a spawn upgrader on top of a mob spawner activates the effect.
