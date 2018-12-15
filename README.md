@@ -12,6 +12,8 @@ Download this mod from [here](https://github.com/maierfelix/mc-spawner-upgrade/r
 
 Placing a spawn upgrader on top of a mob spawner activates the effect.
 
+<img src="https://i.imgur.com/doSPtlu.png" width="50%">
+
 ## Recipes:
 
 <img title="Spawn Upgrader I" src="https://i.imgur.com/YzX7fce.png"> **Spawn Upgrader I:**
