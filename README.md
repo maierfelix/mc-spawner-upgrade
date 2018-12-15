@@ -11,6 +11,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 ## Recipes:
 
 <img title="Spawn Upgrader I" src="https://i.imgur.com/YzX7fce.png"> **Spawn Upgrader I:**
+
 |  |  | |
 | ------------- | ------------- | ------------- |
 | <p title="Obsidian" align="center"><img src="https://i.imgur.com/mOYZ9N0.png"></p> | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Obsidian" src="https://i.imgur.com/mOYZ9N0.png"></p>  |
@@ -18,6 +19,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | <p align="center"><img title="Obsidian" src="https://i.imgur.com/mOYZ9N0.png"></p>  | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Obsidian" src="https://i.imgur.com/mOYZ9N0.png"></p>  |
 
 <img title="Spawn Upgrader II" src="https://i.imgur.com/zB8qCJE.png"> **Spawn Upgrader II:**
+
 |  |  | |
 | ------------- | ------------- | ------------- |
 | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p> | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  |
@@ -25,6 +27,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  |
 
 <img title="Spawn Upgrader III" src="https://i.imgur.com/qyIhnnx.png"> **Spawn Upgrader III:**
+
 |  |  | |
 | ------------- | ------------- | ------------- |
 | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p> | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  | <p align="center"><img title="Diamond" src="https://i.imgur.com/kL26xTi.png"></p>  |
@@ -34,6 +37,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 ## Effects:
 
 <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+
 | Name  | Value | Description |
 | ------------- | ------------- | ------------- |
 | Spawn Count  | 4 | How many mobs to attempt to spawn each time |
@@ -43,6 +47,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Required Player Range | 16 | The block radius of the sphere of activation by players for this spawner |
 
 <img title="Spawner Upgrade I" src="https://i.imgur.com/YzX7fce.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+
 | Name  | Value |
 | ------------- | ------------- |
 | Spawn Count  | 5 |
@@ -52,6 +57,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Required Player Range | 64 |
 
 <img title="Spawner Upgrade II" src="https://i.imgur.com/zB8qCJE.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+
 | Name  | Value |
 | ------------- | ------------- |
 | Spawn Count  | 5 |
@@ -61,6 +67,7 @@ Placing a spawn upgrader on top of a mob spawner activates the effect.
 | Required Player Range | 128 |
 
 <img title="Spawner Upgrade III" src="https://i.imgur.com/qyIhnnx.png"> <img src="https://i.imgur.com/hiot7J6.png" width="16"> <img title="Spawner" src="https://i.imgur.com/3BSKSav.png">
+
 | Name  | Value |
 | ------------- | ------------- |
 | Spawn Count  | 6 |
